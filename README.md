@@ -42,7 +42,7 @@ It helps businesses understand consumer patterns during Black Friday shopping ev
 
 ## 🛠️ Tools & Technologies Used
 - **Tableau**
-- 
+  
 ---
 
 ## 📂 Dataset
@@ -74,8 +74,6 @@ The dashboard leverages multiple visualization types for clarity:
 - Pie charts  
 - Heatmaps  
 - Histograms  
-
----
 
 ---
 
